@@ -1,4 +1,4 @@
-# Basic for Java programming
+# Basics for Java programming
 
 ## Contents
 
