@@ -2,8 +2,21 @@
 
 ## Contents
 
-### 1. 기본 실행 환경과 java basic의 이해
+### 1. 기본 실행 환경과 시스템의 이해
 
-- [변수타입, 연산자, 형 변환, 제어문, 클래스, 런타임의 이해](https://github.com/qskeksq/Basic/blob/master/0510.md)
 
-- [패키지, 컴파일, 제한자, 생성자, Collection, String 사용의 이해](https://github.com/qskeksq/Basic/blob/master/0511.md)
+### 2. java 1
+
+- [변수의 이해-기본형](https://github.com/qskeksq/BasicJava/blob/master/0510_1.md)
+
+- [변수의 이해-참조형](https://github.com/qskeksq/BasicJava/blob/master/0510_2.md)
+
+- [연산자의 이해](https://github.com/qskeksq/BasicJava/blob/master/0510_3.md)
+
+- [제어문의 이해](https://github.com/qskeksq/BasicJava/blob/master/0511_1.md)
+
+### 3. java 2
+
+- [클래스의 이해](https://github.com/qskeksq/BasicJava/blob/master/0512_1.md)
+
+- [Collections의 이해]( )
