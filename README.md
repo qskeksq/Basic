@@ -19,4 +19,4 @@
 
 - [클래스의 이해](https://github.com/qskeksq/BasicJava/blob/master/0512_1.md)
 
-- [Collections의 이해]( )
+- [Collections의 이해](https://github.com/qskeksq/BasicJava/blob/master/0512_2.md)
