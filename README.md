@@ -19,4 +19,10 @@
 
 - [클래스의 이해](https://github.com/qskeksq/BasicJava/blob/master/0512_1.md)
 
+- [상속의 이해](https://github.com/qskeksq/Basics_for_java_programming/blob/master/0516_1.md)
+
+- [인터페이스의 이해](https://github.com/qskeksq/Basics_for_java_programming/blob/master/0516_2.md)
+
+- [예외 처리의 이해](https://github.com/qskeksq/Basics_for_java_programming/blob/master/0516_3.md)
+
 - [Collections의 이해](https://github.com/qskeksq/BasicJava/blob/master/0512_2.md)
